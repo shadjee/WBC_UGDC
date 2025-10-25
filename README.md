@@ -1,4 +1,4 @@
-ITLE
+TITLE
 Uncertainty-Guided Deep Ensemble (UGDE) with Conformal Prediction for White Blood Cell (WBC) Classification
 
 Description
